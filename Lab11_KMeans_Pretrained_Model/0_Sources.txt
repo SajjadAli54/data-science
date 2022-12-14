@@ -1,0 +1,3 @@
+https://pythonprogramminglanguage.com/kmeans-elbow-method/
+https://www.kaggle.com/andyxie/k-means-clustering-implementation-in-python
+https://www.kaggle.com/tonzowonzo/simple-k-means-clustering-on-the-iris-dataset/data
