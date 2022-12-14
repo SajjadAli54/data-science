@@ -1,0 +1,3 @@
+AX = b
+Y where AY is as close to b as possible
+minimize |b - AY|^2
